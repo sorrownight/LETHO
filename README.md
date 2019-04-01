@@ -1,1 +1,1 @@
-# LETHO
+# Initial release
